@@ -1146,6 +1146,102 @@
       "source": "Kaamelott, Livre II, Unagi II",
       "length": 330,
       "id": 198
-    }
-  ]
-}
+    },
+    {
+      "text": "Il n'y a rien de mieux qu'un ami, à moins que ce ne soit un ami avec du chocolat.",
+      "source": "Winnie l'Ourson, A.A. Milne",
+      "length": 81,
+      "id": 199
+    },
+    {
+      "text": "La force ne vient pas de la capacité physique, mais d'une volonté indomptable.",
+      "source": "Unbroken, Laura Hillenbrand",
+      "length": 78,
+      "id": 200
+    },
+    {
+      "text": "La peur est le chemin vers le côté obscur : la peur mène à la colère, la colère mène à la haine, la haine mène à la souffrance.",
+      "source": "Star Wars, Épisode I : La Menace fantôme",
+      "length": 127,
+      "id": 201
+    },
+    {
+      "text": "L'important n'est pas la destination, mais le voyage.",
+      "source": "Alice au pays des merveilles, Lewis Carroll",
+      "length": 53,
+      "id": 202
+    },
+    {
+      "text": "Tout ce que nous avons à décider, c'est ce que nous devons faire du temps qui nous est imparti.",
+      "source": "Le Seigneur des Anneaux: La Communauté de l'Anneau, J.R.R. Tolkien",
+      "length": 95,
+      "id": 203
+    },
+    {
+      "text": "La seule chose que nous avons à craindre, c'est la peur elle-même.",
+      "source": "Discours inaugural de Franklin D. Roosevelt",
+      "length": 66,
+      "id": 204
+    },
+    [
+  {
+    "text": "Tous les hommes meurent, mais peu vivent vraiment.",
+    "source": "Braveheart",
+    "length": 50,
+    "id": 205
+  },
+  {
+    "text": "On ne voit bien qu'avec le cœur. L'essentiel est invisible pour les yeux.",
+    "source": "Le Petit Prince, Antoine de Saint-Exupéry",
+    "length": 73,
+    "id": 206
+  },
+  {
+    "text": "Le passé est un guide, pas un gardien.",
+    "source": "Téméraire, Naomi Novik",
+    "length": 38,
+    "id": 207
+  },
+  {
+    "text": "Rien n'est impossible, le mot même dit « je suis possible »!",
+    "source": "Audrey Hepburn",
+    "length": 60,
+    "id": 208
+  },
+  {
+    "text": "La vie c'est comme une boîte de chocolats, on ne sait jamais sur quoi on va tomber.",
+    "source": "Forrest Gump",
+    "length": 83,
+    "id": 209
+  },
+  {
+    "text": "Les grandes âmes ont de la volonté, les faibles n'ont que des souhaits.",
+    "source": "Proverbe chinois",
+    "length": 71,
+    "id": 210
+  },
+  {
+    "text": "Je ne suis pas un grand voyageur, mais je suis souvent en voyage.",
+    "source": "Inception",
+    "length": 65,
+    "id": 211
+  },
+  {
+    "text": "Il y a quelque chose de plus important que la logique : l'imagination.",
+    "source": "Willy Wonka et la Chocolaterie, Roald Dahl",
+    "length": 70,
+    "id": 212
+  },
+  {
+    "text": "Il n'y a pas d'amis, il y a des moments d'amitié.",
+    "source": "Une vie, Guy de Maupassant",
+    "length": 49,
+    "id": 213
+  },
+  {
+    "text": "La vie ne se mesure pas par le nombre de respirations que nous prenons, mais par les moments qui nous coupent le souffle.",
+    "source": "Hitch, Will Smith",
+    "length": 121,
+    "id": 214
+  }
+]
